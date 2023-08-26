@@ -3,7 +3,6 @@
 ## Repositório criado para incluir os projetos do curso.
 
 > Desafio de projeto
-
 - [ ] Criando sua Primeira Landing Page com HTML e CSS. (Básico)
 - [ ] Clonando a Página do Youtube com CSS. (Intermediário)
 - [ ] Reproduzindo a Listagem do YouTube com Grid Layout no CSS. (Intermediário)
